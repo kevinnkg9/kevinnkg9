@@ -78,11 +78,6 @@ My goal is to transition into a SOC Analyst role where I can help organizations 
 - Earn additional security certifications
 - Land my first SOC Analyst position
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: *(Add your LinkedIn here once it's updated.)*
 
 ---
 
